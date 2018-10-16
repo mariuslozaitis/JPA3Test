@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.orm.jpa.EntityManagerFactoryBuilder"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="com.example.demo.GeoDao"/>
+    <fullyQualifiedTypeName name="org.yaml.snakeyaml.tokens.Token.ID"/>
+    <fullyQualifiedTypeName name="javax.transaction.Transactional"/>
+</qualifiedTypeNameHistroy>
